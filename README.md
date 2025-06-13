@@ -4,6 +4,10 @@ A comprehensive Python-based neural network simulator designed for studying meta
 
 ![Demo](https://github.com/xalentis/PyNeurolib/blob/master/demo.png)
 
+Includes a number of mental health conditions:
+
+![Demo](https://github.com/xalentis/PyNeurolib/blob/master/demo2.png)
+
 ## Features
 
 ### Core Simulation Capabilities
