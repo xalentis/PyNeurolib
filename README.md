@@ -2,6 +2,8 @@
 
 A comprehensive Python-based neural network simulator designed for studying metabolic dysfunction effects on neuronal activity and network behavior. This simulator models biologically realistic neurons and allows researchers to investigate how various metabolic conditions affect neural network dynamics.
 
+![Demo](https://github.com/xalentis/PyNeurolib/blob/master/demo.png)
+
 ## Features
 
 ### Core Simulation Capabilities
